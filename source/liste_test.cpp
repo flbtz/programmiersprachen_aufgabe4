@@ -77,7 +77,7 @@ TEST_CASE("mod methods"){
         REQUIRE(43 == *liste.last());
     }
 
-    SECTION("copy constr 1")
+    SECTION("copy constructor 1")
     {
         List<int> list1;
         list1.push_front(1);
@@ -88,7 +88,7 @@ TEST_CASE("mod methods"){
         REQUIRE(list2 == list1);
     }
 
-    SECTION("copy consrt 2")
+    SECTION("copy constructor 2")
     {
         List<int> list1;
         list1.push_front(1);
@@ -124,7 +124,7 @@ TEST_CASE("mod methods"){
      }*/
 
 
-
+/* 4.10 */
     SECTION("reverse")
     {
         List<int> list;
@@ -135,7 +135,7 @@ TEST_CASE("mod methods"){
         list.reverse();
         REQUIRE(1 == list.front());
     }
-
+/* 4.11 */
     SECTION("vector")
     {
         List<int> list;
@@ -148,7 +148,7 @@ TEST_CASE("mod methods"){
         REQUIRE(4 == vector.front());
         REQUIRE(1 == vector.back());
     }
-
+/* 4.13 */
     SECTION("move constr")
     {
         List<int> list;

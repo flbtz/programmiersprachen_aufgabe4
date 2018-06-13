@@ -16,35 +16,9 @@
   <component name="ChangeListManager">
     <list default="true" id="5742638d-8231-4d48-8800-b279028c621d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/build/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/build/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/nanovg.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/build/CMakeFiles/nanovg.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/nanovg.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/build/CMakeFiles/nanovg.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/nanovg.dir/external/nanovg/src/nanovg.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/CMakeFiles/nanovg.dir/external/nanovg/src/nanovg.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/nanovg.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/build/CMakeFiles/nanovg.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/build/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/build/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_init.m.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_init.m.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_time.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_time.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_window.m.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_window.m.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/context.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/context.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/init.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/init.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/input.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/input.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/monitor.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/monitor.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/nsgl_context.m.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/nsgl_context.m.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/posix_tls.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/posix_tls.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/vulkan.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/vulkan.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/window.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir/window.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/libglfw3.a" beforeDir="false" afterPath="$PROJECT_DIR$/build/external/glfw-3.2.1/src/libglfw3.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libnanovg.a" beforeDir="false" afterPath="$PROJECT_DIR$/build/libnanovg.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/source/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/build/source/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/source/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/build/source/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/source/CMakeFiles/listtest.dir/liste_test.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/source/CMakeFiles/listtest.dir/liste_test.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/source/listtest" beforeDir="false" afterPath="$PROJECT_DIR$/build/source/listtest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/List.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/source/List.hpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/liste_test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/source/liste_test.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/build/" />
@@ -61,8 +35,8 @@
       <file leaf-file-name="aufgabe1.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/aufgabe1.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="46" column="16" lean-forward="true" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+            <state relative-caret-position="180">
+              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -70,10 +44,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="List.hpp" pinned="false" current-in-tab="false">
+      <file leaf-file-name="List.hpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/List.hpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-62">
+            <state relative-caret-position="625">
               <caret line="312" column="18" lean-forward="true" selection-start-line="312" selection-start-column="18" selection-end-line="312" selection-end-column="18" />
               <folding>
                 <element signature="e#44#63#0" expanded="true" />
@@ -82,19 +56,19 @@
                 <element signature="e#281#293#0" expanded="true" />
                 <element signature="e#1425#1437#0" expanded="true" />
                 <element signature="e#1594#1606#0" expanded="true" />
-                <element signature="e#6419#6431#0" expanded="true" />
-                <element signature="e#6924#6936#0" expanded="true" />
-                <element signature="e#7028#7040#0" expanded="true" />
+                <element signature="e#6429#6441#0" expanded="true" />
+                <element signature="e#6934#6946#0" expanded="true" />
+                <element signature="e#7038#7050#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="liste_test.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="liste_test.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/liste_test.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-476">
-              <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+            <state relative-caret-position="233">
+              <caret line="126" column="10" selection-start-line="126" selection-start-column="10" selection-end-line="126" selection-end-column="10" />
               <folding>
                 <element signature="e#28#48#0" expanded="true" />
               </folding>
@@ -120,9 +94,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/source/aufgabe1.cpp" />
-        <option value="$PROJECT_DIR$/source/List.hpp" />
         <option value="$PROJECT_DIR$/source/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/source/liste_test.cpp" />
+        <option value="$PROJECT_DIR$/source/List.hpp" />
       </list>
     </option>
   </component>
@@ -215,18 +189,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528713457468</updated>
-      <workItem from="1528713458928" duration="2576000" />
+      <workItem from="1528713458928" duration="3344000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2576000" />
+    <option name="totallyTimeSpent" value="3344000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="9" y="23" width="750" height="772" extended-state="0" />
+    <frame x="9" y="23" width="856" height="772" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.42" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.36799064" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" weight="0.3295129" />
       <window_info anchor="bottom" id="CMake" />
@@ -235,7 +209,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39971346" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39971346" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -245,6 +219,26 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.36799064" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Debug" order="8" visible="true" weight="0.39971346" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3295129" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="CMake" order="4" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -260,16 +254,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/aufgabe1.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="16" lean-forward="true" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -277,9 +261,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/aufgabe1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/liste_test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="126" column="10" selection-start-line="126" selection-start-column="10" selection-end-line="126" selection-end-column="10" />
+          <folding>
+            <element signature="e#28#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/List.hpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-62">
+        <state relative-caret-position="625">
           <caret line="312" column="18" lean-forward="true" selection-start-line="312" selection-start-column="18" selection-end-line="312" selection-end-column="18" />
           <folding>
             <element signature="e#44#63#0" expanded="true" />
@@ -288,19 +292,9 @@
             <element signature="e#281#293#0" expanded="true" />
             <element signature="e#1425#1437#0" expanded="true" />
             <element signature="e#1594#1606#0" expanded="true" />
-            <element signature="e#6419#6431#0" expanded="true" />
-            <element signature="e#6924#6936#0" expanded="true" />
-            <element signature="e#7028#7040#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/liste_test.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-476">
-          <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-          <folding>
-            <element signature="e#28#48#0" expanded="true" />
+            <element signature="e#6429#6441#0" expanded="true" />
+            <element signature="e#6934#6946#0" expanded="true" />
+            <element signature="e#7038#7050#0" expanded="true" />
           </folding>
         </state>
       </provider>

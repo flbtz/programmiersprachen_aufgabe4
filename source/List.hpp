@@ -290,7 +290,7 @@ public :
             }
         }
     }
-
+/* 4.9 +/
     void insert(ListIterator<T> pos, T const& object)
     {
         ListIterator<T>it=begin();
@@ -309,7 +309,7 @@ public :
         }
         size_++;
     }
-
+/* 4.10 */
     void reverse()
     {
         ListIterator<T>it = begin();
