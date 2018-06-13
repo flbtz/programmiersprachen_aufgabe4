@@ -15,9 +15,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5742638d-8231-4d48-8800-b279028c621d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/source/CMakeFiles/listtest.dir/liste_test.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/source/CMakeFiles/listtest.dir/liste_test.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/source/listtest" beforeDir="false" afterPath="$PROJECT_DIR$/build/source/listtest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/List.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/source/List.hpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/liste_test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/source/liste_test.cpp" afterDir="false" />
     </list>
@@ -44,31 +41,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="List.hpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="List.hpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/List.hpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="312" column="18" lean-forward="true" selection-start-line="312" selection-start-column="18" selection-end-line="312" selection-end-column="18" />
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#44#63#0" expanded="true" />
                 <element signature="e#117#129#0" expanded="true" />
                 <element signature="e#153#165#0" expanded="true" />
-                <element signature="e#281#293#0" expanded="true" />
-                <element signature="e#1425#1437#0" expanded="true" />
-                <element signature="e#1594#1606#0" expanded="true" />
-                <element signature="e#6429#6441#0" expanded="true" />
-                <element signature="e#6934#6946#0" expanded="true" />
-                <element signature="e#7038#7050#0" expanded="true" />
+                <element signature="e#290#302#0" expanded="true" />
+                <element signature="e#1434#1446#0" expanded="true" />
+                <element signature="e#1603#1615#0" expanded="true" />
+                <element signature="e#6447#6459#0" expanded="true" />
+                <element signature="e#6952#6964#0" expanded="true" />
+                <element signature="e#7056#7068#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="liste_test.cpp" pinned="false" current-in-tab="false">
+      <file leaf-file-name="liste_test.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/liste_test.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="126" column="10" selection-start-line="126" selection-start-column="10" selection-end-line="126" selection-end-column="10" />
+            <state relative-caret-position="210">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
               <folding>
                 <element signature="e#28#48#0" expanded="true" />
               </folding>
@@ -95,8 +92,8 @@
       <list>
         <option value="$PROJECT_DIR$/source/aufgabe1.cpp" />
         <option value="$PROJECT_DIR$/source/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/source/liste_test.cpp" />
         <option value="$PROJECT_DIR$/source/List.hpp" />
+        <option value="$PROJECT_DIR$/source/liste_test.cpp" />
       </list>
     </option>
   </component>
@@ -189,12 +186,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528713457468</updated>
-      <workItem from="1528713458928" duration="3344000" />
+      <workItem from="1528713458928" duration="4003000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3344000" />
+    <option name="totallyTimeSpent" value="4003000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="9" y="23" width="856" height="772" extended-state="0" />
@@ -271,30 +268,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/liste_test.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="126" column="10" selection-start-line="126" selection-start-column="10" selection-end-line="126" selection-end-column="10" />
-          <folding>
-            <element signature="e#28#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/List.hpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="312" column="18" lean-forward="true" selection-start-line="312" selection-start-column="18" selection-end-line="312" selection-end-column="18" />
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#44#63#0" expanded="true" />
             <element signature="e#117#129#0" expanded="true" />
             <element signature="e#153#165#0" expanded="true" />
-            <element signature="e#281#293#0" expanded="true" />
-            <element signature="e#1425#1437#0" expanded="true" />
-            <element signature="e#1594#1606#0" expanded="true" />
-            <element signature="e#6429#6441#0" expanded="true" />
-            <element signature="e#6934#6946#0" expanded="true" />
-            <element signature="e#7038#7050#0" expanded="true" />
+            <element signature="e#290#302#0" expanded="true" />
+            <element signature="e#1434#1446#0" expanded="true" />
+            <element signature="e#1603#1615#0" expanded="true" />
+            <element signature="e#6447#6459#0" expanded="true" />
+            <element signature="e#6952#6964#0" expanded="true" />
+            <element signature="e#7056#7068#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/liste_test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="e#28#48#0" expanded="true" />
           </folding>
         </state>
       </provider>

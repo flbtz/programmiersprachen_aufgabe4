@@ -12,8 +12,8 @@ TEST_CASE("constr and getter")
         REQUIRE(liste.empty());
         REQUIRE(liste.size()==0);
     }
-
-    SECTION("push_font")
+/* 4.3 */
+    SECTION("push_front")
     {
         List<int> liste;
         liste.push_front(42);
@@ -42,7 +42,7 @@ TEST_CASE("constr and getter")
         liste.pop_back();
         REQUIRE(liste.empty());
     }
-
+/* 4.4 */
     SECTION("clear")
     {
         List<int> liste;
