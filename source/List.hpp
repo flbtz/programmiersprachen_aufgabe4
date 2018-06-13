@@ -290,7 +290,7 @@ public :
             }
         }
     }
-/* 4.9 +/
+/* 4.9 */
     void insert(ListIterator<T> pos, T const& object)
     {
         ListIterator<T>it=begin();
@@ -321,7 +321,7 @@ public :
             pop_back();
         }
     }
-
+/* 4.6 */
     ListIterator<T> begin() const
     {
         return ListIterator<T>{first_};
@@ -384,7 +384,7 @@ bool operator==(List<T> const& xs, List<T> const& ys)
 }
 
 
-
+/* 4.7 */
 template<typename T>
 bool operator!=(List<T> const& xs, List<T> const& ys)
 {
