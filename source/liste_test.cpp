@@ -54,7 +54,7 @@ TEST_CASE("constr and getter")
     }
 };
 TEST_CASE("mod methods"){
-    SECTION("sould be an empty range...")
+    SECTION("should be an empty range...")
     {
         List<int> liste2;
         auto b = liste2.begin();
